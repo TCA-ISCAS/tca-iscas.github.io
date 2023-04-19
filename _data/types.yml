@@ -1,0 +1,15 @@
+---
+- name: Security
+  tag: SEC
+- name: System
+  tag: SYS
+- name: Software
+  tag: SOFT
+#- name: Crypto
+#  tag: CRYPTO
+- name: CCF-A
+  tag: A
+- name: CCF-B
+  tag: B
+- name: CCF-C
+  tag: C
