@@ -574,12 +574,12 @@
   tags: [SEC]
 
 - name: 《通信学报》专题征文
-  description: “智能无人系统安全”专题征文通知
+  description: 智能无人系统安全专题
   year: 2023
   link: http://www.infocomm-journal.com/txxb/CN/news/news1681.shtml
   deadline: 
     - "2023-06-01 23:59"
-  comment: 出版日期：2023年9月
+  comment: 出版日期 2023年9月
   date: 
   place:
   tags: [SEC]
