@@ -39,7 +39,7 @@
   tags: [SEC, A]
 
 - name: NDSS
-  description: ISOC Network and Distributed System Security Symposium (CCF-B)
+  description: Network and Distributed System Security Symposium (CCF-A)
   year: 2024
   link: https://www.ndss-symposium.org/ndss2024/
   comment: 2 review cycles, Noti1--2023.6.21 Noti2--2023.9.13
@@ -574,12 +574,12 @@
   tags: [SEC]
 
 - name: 《通信学报》专题征文
-  description: 计算机通信与网络系统安全新技术
-  year: 2021
-  link: http://www.infocomm-journal.com/txxb/CN/news/news1272.shtml
+  description: “智能无人系统安全”专题征文通知
+  year: 2023
+  link: http://www.infocomm-journal.com/txxb/CN/news/news1681.shtml
   deadline: 
-    - "2021-06-30 23:59"
-  comment: 出版日期：2021年10月
+    - "2023-06-01 23:59"
+  comment: 出版日期：2023年9月
   date: 
   place:
   tags: [SEC]
