@@ -86,11 +86,11 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks (CCF-B)
-  year: 2023
-  link: https://dsn2023.dei.uc.pt/
-  comment: Noti1--2023.5.17
+  year: 2024
+  link: https://dsn2024uq.github.io/cfpapers.html
+  comment: Noti1--2024.3.20
   deadline: 
-    - "2022-12-7 23:59"
+    - "2023-11-29 23:59"
   date: 
   place: 
   tags: [SEC, B]
@@ -110,24 +110,24 @@
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security (CCF-C)
-  year: 2023
-  link: https://sulab-sever.u-aizu.ac.jp/ACNS2023/
-  comment: 2 review cycles, Noti1--2022.11.10 Noti2--2023.3.16
+  year: 2024
+  link: https://wp.nyu.edu/acns2024/
+  comment: 2 review cycles, Noti1--2023.9.21 Noti2--2023.12.12
   deadline: 
-    - "2022-09-08 23:59"
-    - "2023-01-12 23:59"
+    - "2023-07-20 23:59"
+    - "2023-10-20 23:59"
   date: 
   place: 
   tags: [CRYPTO, SEC, C]
 
 - name: DIMVA
-  description: SIG SIDAR Conference on Detection of Intrusions and Malware & Vulnerability Assessment (CCF-C)
-  year: 2023
-  link: https://dimva2023.de/
-  comment: 2 review cycles, Noti1--2023.1.25 Noti2--2023.4.5
+  description: Conference on Detection of Intrusions and Malware & Vulnerability Assessment (CCF-C)
+  year: 2024
+  link: https://www.dimva.org/dimva2024/
+  comment: 2 review cycles, Noti1--2024.1.24 Noti2--2024.4.3
   deadline: 
-    - "2022-12-07 23:59"
-    - "2023-02-01 23:59"
+    - "2023-12-06 23:59"
+    - "2024-02-14 23:59"
   date: 
   place: 
   tags: [SEC, C]
@@ -135,14 +135,14 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium (CCF-C)
-  year: 2023
-  link: https://petsymposium.org
-  comment: 4 review cycles, Noti1--2022.8.1 Noti2--2022.11.1 Noti3--2023.2.1 Noti4--2023.5.1
+  year: 2024
+  link: https://petsymposium.org/2024/
+  comment: 4 review cycles, Noti1--2023.8.1 Noti2--2023.11.1 Noti3--2024.2.1 Noti4--2024.5.1
   deadline:
-    - "2022-05-31 23:59"
-    - "2022-08-31 23:59"
-    - "2022-11-30 23:59"
-    - "2023-02-28 23:59"
+    - "2023-05-31 23:59"
+    - "2023-08-31 23:59"
+    - "2023-11-30 23:59"
+    - "2024-02-29 23:59"
   date: July 18-23
   place: Sydney, Australia
   tags: [SEC, C]
@@ -161,22 +161,23 @@
 
 - name: COMPSAC
   description: Annual Computer Software and Applications Conference (CCF-C)
-  year: 2023
-  link: https://ieeecompsac.computer.org/2023/
-  comment: Noti--2023-04-07
+  year: 2024
+  link: https://ieeecompsac.computer.org/2024/
+  comment: Noti--2024-04-07
   deadline: 
-    - "2023-02-15 23:59"
+    - "2024-01-31 23:59"
   date: 
   place: Virtual
   tags: [SEC, C]
 
 - name: ACISP
   description: Australasia Conference on Information Security and Privacy (CCF-C)
-  year: 2023
+  year: 2024
   link: https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp
-  comment: Noti--15 April 2023
+  comment: 2 review cycles, Noti1--2024.1.22 Noti2--2024.4.8
   deadline: 
-    - "2023-02-23 23:59"
+    - "2023-11-06 23:59"
+    - "2024-02-19 23:59"
   date: 
   place: 
   tags: [SEC, C]
@@ -184,12 +185,12 @@
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks (CCF-C)
-  year: 2023
-  link: https://wisec2023.surrey.ac.uk/
-  comment: 2 review cycles, Noti1--December 20th, 2022 Noti2-March 29th, 2023
+  year: 2024
+  link: https://wisec2024.kaist.ac.kr/
+  comment: 2 review cycles, Noti1--December 18th, 2023 Noti2-March 22th, 2024
   deadline: 
-    - "2022-12-07 23:59"
-    - "2023-02-17 23:59"
+    - "2023-11-09 23:59"
+    - "2024-02-08 23:59"
   date:  
   place: 
   tags: [SEC, C]
@@ -252,11 +253,11 @@
 # System
 - name: USENIX ATC
   description: Usenix Annual Technical Conference (CCF-A)
-  year: 2023
-  link: https://www.usenix.org/conference/atc23
-  comment: Noti--Friday, April 28, 2023
+  year: 2024
+  link: https://www.usenix.org/conference/atc24
+  comment: Noti--April 30, 2024
   deadline:
-    - "2023-01-05 23:59"
+    - "2024-01-09 23:59"
   date: 
   place: 
   tags: [SYS, A]
@@ -276,11 +277,11 @@
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation (CCF-A)
-  year: 2023
-  link: https://www.usenix.org/conference/osdi23
-  comment: Noti--March 23, 2023
+  year: 2024
+  link: https://www.usenix.org/conference/osdi24
+  comment: Noti--March 21, 2024
   deadline:
-    - "2022-12-6 23:59"
+    - "2023-11-30 23:59"
   date: 
   place:
   tags: [SYS, A]
@@ -288,11 +289,11 @@
 
 - name: INFOCOM
   description: IEEE International Conference on Computer Communications (CCF-A)
-  year: 2023
-  link: https://infocom2023.ieee-infocom.org/
-  comment: Noti--December 2, 2022
+  year: 2024
+  link: https://infocom2024.ieee-infocom.org/
+  comment: Noti--December 1, 2023
   deadline:
-    - "2022-07-25 23:59"
+    - "2023-07-24 23:59"
   date: 
   place: 
   tags: [SYS, A]
@@ -333,19 +334,19 @@
 
 - name: MobiSys
   description: International Conference on Mobile Systems, Applications, and Services (CCF-B)
-  year: 2023
-  link: https://www.sigmobile.org/mobisys/2023/
-  comment: Noti--February 27, 2023
+  year: 2024
+  link: https://www.sigmobile.org/mobisys/2024/
+  comment: Noti--March 6th, 2024
   deadline:
-    - "2022-12-9 23:59"
+    - "2023-11-23 23:59"
   date: 
   place: 
   tags: [SYS, B]  
 
 - name: ICDCS
   description: International Conference on Distributed Computing Systems (CCF-B)
-  year: 2023
-  link: https://icdcs2023.icdcs.org/
+  year: 2024
+  link: https://icdcs2024.icdcs.org/
   comment: Noti--April 10, 2023
   deadline:
     - "2023-01-14 23:59"
@@ -366,20 +367,20 @@
 
 - name: EuroSys
   description: European Conference on Computer Systems (CCF-B)
-  year: 2023
-  link: https://2023.eurosys.org/
-  comment: 2 review cycles, Noti1--Aug 10, 2022, Noti2--January 18, 2023
+  year: 2024
+  link: https://2024.eurosys.org/
+  comment: 2 review cycles, Noti1--Sep 12, 2023, Noti2--Feb 7, 2024
   deadline: 
-    - "2022-05-11 23:59"
-    - "2022-10-12 23:59"
+    - "2023-05-24 23:59"
+    - "2023-10-19 23:59"
   date: 
   place: 
   tags: [SYS]
 
 - name: CGO
   description: Code Generation and Optimization (CCF-B)
-  year: 2023
-  link: https://conf.researchr.org/home/cgo-2023
+  year: 2024
+  link: https://conf.researchr.org/home/cgo-2024
   comment: 2 review cycles, Noti1--17 Jul 2023 , Noti2--6th November 2023
   deadline: 
     - "2023-05-19 23:59"
@@ -403,23 +404,23 @@
 
 - name: ISSTA
   description: International Symposium on Software Testing and Analysis (CCF-A)
-  year: 2023
-  link: https://conf.researchr.org/series/issta
-  comment: 2 review cycles, Noti1--16 Jan 2023 , Noti2--3 May 2023
+  year: 2024
+  link: https://conf.researchr.org/home/issta-2024
+  comment: 2 review cycles, Noti1--Mar 2 2024, Noti2--June 13 2024
   deadline:
-    - "2022-11-10 23:59"
-    - "2023-02-16 23:59"
+    - "2023-12-15 23:59"
+    - "2024-04-12 23:59"
   date: 
   place: 
   tags: [SOFT, A]
 
 - name: FSE
   description: Foundations of Software Engineering (CCF-A)
-  year: 2023
-  link: https://conf.researchr.org/home/fse-2023
-  comment: Noti--4 May 2023
+  year: 2024
+  link: https://conf.researchr.org/home/fse-2024
+  comment: Noti--Dec 13 2023
   deadline:
-    - "2023-01-26 23:59"
+    - "2023-09-21 23:59"
   date: 
   place: 
   tags: [SOFT, A]
@@ -448,11 +449,11 @@
 
 - name: PLDI
   description: ACM-SIGPLAN Symp on Prog Lang Design & Impl (CCF-A)
-  year: 2023
-  link: https://pldi23.sigplan.org/
-  comment: Noti--2023-02-25
+  year: 2024
+  link: https://pldi24.sigplan.org/
+  comment: Noti--2024-02-26
   deadline:
-    - "2022-11-10 23:59"
+    - "2023-11-16 23:59"
   date: 
   place:
   tags: [SYS, A]
@@ -470,12 +471,12 @@
 
 - name: OOPSLA
   description: Object-Oriented Programming Systems, Languages and Applications (CCF-A)
-  year: 2023
-  link: https://2023.splashcon.org/track/splash-2023-oopsla
-  comment: 2 reviwe cycles， Noti1--23 Dec 2022， Noti2--30 Jun 2023
+  year: 2024
+  link: https://2024.splashcon.org/
+  comment: 2 reviwe cycles， Noti1--22 Dec 20223 Noti2--30 Jun 2024
   deadline:
-    - "2022-10-28 23:59"
-    - "2023-04-14 23:59"
+    - "2023-10-20 23:59"
+    - "2024-04-05 23:59"
   date: 
   place: 
   tags: [SYS, A]
@@ -528,13 +529,13 @@
 
 - name: CSF
   description: IEEE Computer Security Foundations Symposium (CCF-B)
-  year: 2023
-  link: https://csf2023.ieee-security.org/
+  year: 2024
+  link: https://csf2024.ieee-security.org/
+  comment: 3 reviwe cycles， Noti1--July 6, 2023， Noti2--December 2, 2023，Noti3--April 7, 2024
   deadline:
-    - "2022-05-13 23:59"
-    - "2022-09-30 23:59"
-    - "2023-02-03 23:59"
-  comment: 3 reviwe cycles， Noti1--July 15, 2022， Noti2--December 2, 2022，Noti3--April 7, 2023
+    - "2023-05-15 23:59"
+    - "2023-09-30 23:59"
+    - "2024-02-03 23:59"
   date: 
   place: 
   tags: [CRYPTO, B]
