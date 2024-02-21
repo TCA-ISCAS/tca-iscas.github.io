@@ -305,8 +305,8 @@
   year: 2025
   link: https://www.usenix.org/conference/nsdi25
   deadline:
-    - "2023-04-30 20:59"
-    - "2023-09-12 20:59"
+    - "2024-04-30 20:59"
+    - "2024-09-12 20:59"
   comment: 2 review cycles, Noti1--July 24, 2024, Noti2--December 10, 2024
   date: 
   place: 
@@ -386,7 +386,7 @@
   comment: 2 review cycles, Noti1--17 Jul 2023 , Noti2--6th November 2023
   deadline: 
     - "2023-05-19 23:59"
-    - "2022-09-01 23:59"
+    - "2023-09-01 23:59"
   date: 
   place: 
   tags: [SYS]
@@ -462,11 +462,11 @@
 
 - name: SOSP
   description: ACM Symposium on Operating Systems Principles (CCF-A)
-  year: 2023
-  link: https://sosp2023.mpi-sws.org/
+  year: 2024
+  link: https://sigops.org/s/conferences/sosp/2024/cfp.html
   deadline:
-    - "2023-04-10 14:59"
-  comment: Noti--July 16, 2023
+    - "2024-04-12 14:59"
+  comment: Noti--August 5, 2024
   date: 
   place: 
   tags: [SYS, A]
