@@ -1,5 +1,16 @@
 ---
 # Security
+- name: ISC
+  year: 2024
+  description: Information Security Conference (CCF-C)
+  link: https://isc24.cs.gmu.edu/docs/home/
+  deadline:
+    - "2024-06-16 23:59" 
+  comment: 
+  date: October 23-25
+  place: Arlington, VA, USA 
+  tags: [SEC, C]
+
 - name: S&P (Oakland)
   year: 2024
   date: 
