@@ -3,9 +3,9 @@
 - name: ISC
   year: 2024
   description: Information Security Conference (CCF-C)
-  link: https://isc24.cs.gmu.edu/docs/home/
+  link: https://isc24.cs.gmu.edu/call-for-papers/
   deadline:
-    - "2024-06-16 23:59" 
+    - "2024-06-13 23:59" 
   comment: 
   date: October 23-25
   place: Arlington, VA, USA 
