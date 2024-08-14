@@ -1,15 +1,14 @@
 ---
 # Security
 - name: S&P (Oakland)
-  year: 2024
+  year: 2025
   date: 
   description: IEEE Symposium on Security and Privacy (CCF-A)
-  link: https://www.ieee-security.org/TC/SP2024/
+  link: https://www.ieee-security.org/TC/SP2025/
   deadline:
-    - "2023-04-13 23:59" 
-    - "2023-08-03 23:59"
-    - "2023-12-06 23:59"
-  comment: 3 review cycles, Noti1--2023.7.10 Noti2--2023.10.27 Noti3--2024.3.8 
+    - "2024-06-06 23:59" 
+    - "2024-11-14 23:59"
+  comment: 2 review cycles, Noti1--2024.9.9 Noti2--2025.3.10 
   date:
   place: San Francisco, California, USA 
   tags: [SEC, CRYPTO, A]
@@ -28,36 +27,35 @@
 
 - name: Usenix Security
   description: Usenix Security Symposium (CCF-A)
-  year: 2024
-  link: https://www.usenix.org/conference/usenixsecurity24
+  year: 2025
+  link: https://www.usenix.org/conference/usenixsecurity25
   deadline:
-    - "2023-06-06 23:59"
-    - "2023-10-17 23:59"
-    - "2024-02-08 23:59"
-  comment: 3 review cycles, Noti1--2023.9.1 Noti2--2024.2.1 Noti3--2024.5.8 
+    - "2024-09-04 23:59"
+    - "2025-01-22 23:59"
+  comment: 2 review cycles, Noti1--2024.12.11 Noti2--2025.4.3
   date: 
   place: 
   tags: [SEC, A]
 
 - name: NDSS
   description: Network and Distributed System Security Symposium (CCF-A)
-  year: 2024
-  link: https://www.ndss-symposium.org/ndss2024/
+  year: 2025
+  link: https://www.ndss-symposium.org/ndss2025/
   deadline:
-    - "2023-04-19 23:59"
-    - "2023-06-28 23:59"
-  comment: 2 review cycles, Noti1--2023.6.21 Noti2--2023.9.13
+    - "2024-04-17 23:59"
+    - "2024-07-10 23:59"
+  comment: 2 review cycles, Noti1--2024.6.20 Noti2--2024.9.19
   date: 
   place: 
   tags: [SEC, A]
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference (CCF-B)
-  year: 2023
-  link: https://www.acsac.org/2023/
+  year: 2024
+  link: https://www.acsac.org/2024/
   deadline: 
-    - "2023-05-22 23:59"
-  comment: Noti1--2023.8.16
+    - "2024-05-28 23:59"
+  comment: Noti1--2024.8.19
   date: 
   place: 
   tags: [SEC, B]
@@ -67,8 +65,8 @@
   year: 2024
   link: https://raid2024.github.io/call.html
   deadline: 
-    - "2024-04-09 23:59"
-  comment: Noti1--
+    - "2024-04-15 23:59"
+  comment: Noti1--2024.6.24
   date: 
   place: 
   tags: [SEC, B]
@@ -76,7 +74,7 @@
 - name: ESORICS
   description: European Symposium on Research in Computer Security (CCF-B)
   year: 2024
-  link: https://esorics2023.org
+  link: https://esorics2024.org
   deadline:
     - "2024-01-08 23:59"
     - "2024-04-19 23:59"
@@ -87,23 +85,23 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks (CCF-B)
-  year: 2024
-  link: https://dsn2024uq.github.io/cfpapers.html
+  year: 2025
+  link: https://dsn2025.github.io/
   deadline: 
-    - "2023-11-29 23:59"
-  comment: Noti1--2024.3.20
+    - "2024-11-27 23:59"
+  comment: Noti1--2025.3.19
   date: 
   place: 
   tags: [SEC, B]
 
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security (CCF-C)
-  year: 2024
-  link: https://asiaccs2024.sutd.edu.sg/
+  year: 2025
+  link: https://asiaccs2025.hust.edu.vn/
   deadline:
-    - "2023-08-21 23:59"
-    - "2023-12-07 23:59"
-  comment: 2 review cycles, Noti1--2023.11.14, Noti1--2024.3.12
+    - "2024-09-20 23:59"
+    - "2025-01-20 23:59"
+  comment: 2 review cycles, Noti1--2024.12.13, Noti1--2025.4.19
   date: 
   place: 
   tags: [SEC, CRYPTO, C]
@@ -111,12 +109,12 @@
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security (CCF-C)
-  year: 2024
-  link: https://wp.nyu.edu/acns2024/
+  year: 2025
+  link: https://acns2025.fordaysec.de/
   deadline: 
-    - "2023-07-20 23:59"
-    - "2023-10-20 23:59"
-  comment: 2 review cycles, Noti1--2023.9.21 Noti2--2023.12.12
+    - "2024-09-09 23:59"
+    - "2025-01-13 23:59"
+  comment: 2 review cycles, Noti1--2024.11.11 Noti2--2025.3.17
   date: 
   place: 
   tags: [CRYPTO, SEC, C]
@@ -136,14 +134,14 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium (CCF-C)
-  year: 2024
-  link: https://petsymposium.org/2024/
+  year: 2025
+  link: https://petsymposium.org/2025/
   deadline:
-    - "2023-05-31 23:59"
-    - "2023-08-31 23:59"
-    - "2023-11-30 23:59"
-    - "2024-02-29 23:59"
-  comment: 4 review cycles, Noti1--2023.8.1 Noti2--2023.11.1 Noti3--2024.2.1 Noti4--2024.5.1
+    - "2024-05-31 23:59"
+    - "2024-08-31 23:59"
+    - "2024-11-30 23:59"
+    - "2025-02-28 23:59"
+  comment: 4 review cycles, Noti1--2024.8.1 Noti2--2024.11.1 Noti3--2025.2.1 Noti4--2025.5.1
   date: July 18-23
   place: Sydney, Australia
   tags: [SEC, C]
@@ -162,13 +160,13 @@
 
 - name: COMPSAC
   description: Annual Computer Software and Applications Conference (CCF-C)
-  year: 2024
-  link: https://ieeecompsac.computer.org/2024/
+  year: 2025
+  link: https://ieeecompsac.computer.org/2025/
   deadline: 
-    - "2024-01-31 23:59"
-  comment: Noti--2024-04-07
+    - "2025-01-31 23:59"
+  comment: Noti--2025-04-07
   date: 
-  place: Virtual
+  place: 
   tags: [SEC, C]
 
 - name: ACISP
@@ -232,22 +230,22 @@
 
 - name: TrustCom
   description: Trust, Security and Privacy in Computing and Communications (CCF-C)
-  year: 2023
-  link: http://www.ieee-hust-ncc.org/2023/TrustCom/
+  year: 2024
+  link: http://ieee-aiplus.org/2024/trustcom/cfp.php
   deadline: 
-    - "2023-07-01 23:59"
-  comment: Noti--1 September 2023
+    - "2024-09-01 23:59"
+  comment: Noti--2024.10.15
   date: 
   place: 
   tags: [SEC, C]
 
 - name: ISC
   description: The Information Security Conference (CCF-C)
-  year: 2023
-  link: https://isc23.cs.rug.nl/docs/home/
+  year: 2024
+  link: https://isc24.cs.gmu.edu/
   deadline: 
-    - "2023-07-27 23:59"
-  comment: Noti--September 28, 2023
+    - "2024-06-13 23:59"
+  comment: Noti--2024.7.30
   date: 
   place: 
   tags: [SEC, C]
@@ -255,35 +253,35 @@
 # System
 - name: USENIX ATC
   description: Usenix Annual Technical Conference (CCF-A)
-  year: 2024
-  link: https://www.usenix.org/conference/atc24
+  year: 2025
+  link: https://www.usenix.org/conference/atc25
   deadline:
-    - "2024-01-09 23:59"
-  comment: Noti--April 30, 2024
+    - "2025-01-07 23:59"
+  comment: Noti--April 25, 2025
   date: 
   place: 
   tags: [SYS, A]
 
 - name: ASPLOS
   description:  Architectural Support for Programming Languages and Operating Systems (CCF-A)
-  year: 2024
-  link: https://asplos-conference.org/calls/
+  year: 2025
+  link: https://www.asplos-conference.org/asplos2025/
   deadline:
-    - "2023-04-13 23:59"
-    - "2023-08-03 23:59"
-    - "2023-11-23 23:59"
-  comment: 3 review cycles, Noti1--2023.8.2 Noti2--2023.11.15 Noti3--2024.3.6
+    - "2024-02-23 23:59"
+    - "2024-06-17 23:59"
+    - "2024-10-18 23:59"
+  comment: 3 review cycles, Noti1--June 6, 2024 Noti2--October 2, 2024 Noti3--January 27, 2025
   date: 
   place: 
   tags: [SYS, A]
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation (CCF-A)
-  year: 2024
-  link: https://www.usenix.org/conference/osdi24
+  year: 2025
+  link: https://www.usenix.org/conference/osdi25
   deadline:
-    - "2023-11-30 23:59"
-  comment: Noti--March 21, 2024
+    - "2024-12-03 23:59"
+  comment: Noti--March 25, 2025
   date: 
   place:
   tags: [SYS, A]
@@ -291,11 +289,11 @@
 
 - name: INFOCOM
   description: IEEE International Conference on Computer Communications (CCF-A)
-  year: 2024
-  link: https://infocom2024.ieee-infocom.org/
+  year: 2025
+  link: https://infocom2025.ieee-infocom.org/
   deadline:
-    - "2023-07-24 23:59"
-  comment: Noti--December 1, 2023
+    - "2024-07-24 23:59"
+  comment: Noti--6 December 2024
   date: 
   place: 
   tags: [SYS, A]
@@ -325,8 +323,8 @@
 
 - name: HotOS
   description: Workshop on Hot Topics in Operating Systems (CCF-B)
-  year: 2023
-  link: https://sigops.org/s/conferences/hotos/2023/#cfp
+  year: 2025
+  link: https://hotos25.rcs.uwaterloo.ca/
   deadline:
     - "2023-02-03 23:59"
   comment: Noti--2023-04-21
@@ -347,11 +345,11 @@
 
 - name: ICDCS
   description: International Conference on Distributed Computing Systems (CCF-B)
-  year: 2024
-  link: https://icdcs2024.icdcs.org/
+  year: 2025
+  link: https://www.icdcs2025.com/
   deadline:
-    - "2024-01-19 23:59"
-  comment: Noti--April 12, 2024
+    - "2024-12-04 23:59"
+  comment: Noti--2025.4.9
   date: 
   place: 
   tags: [SYS, B]  
@@ -381,12 +379,12 @@
 
 - name: CGO
   description: Code Generation and Optimization (CCF-B)
-  year: 2024
-  link: https://conf.researchr.org/home/cgo-2024
-  comment: 2 review cycles, Noti1--17 Jul 2023 , Noti2--6th November 2023
+  year: 2025
+  link: https://2025.cgo.org/
   deadline: 
-    - "2023-05-19 23:59"
-    - "2023-09-01 23:59"
+    - "2024-05-30 23:59"
+    - "2024-09-12 23:59"
+  comment: 2 review cycles, Noti1--Jul 22, 2024, Noti2--November 4, 2024
   date: 
   place: 
   tags: [SYS]
@@ -418,11 +416,11 @@
 
 - name: FSE
   description: Foundations of Software Engineering (CCF-A)
-  year: 2024
-  link: https://conf.researchr.org/home/fse-2024
-  comment: Noti--Dec 13 2023
+  year: 2025
+  link: https://conf.researchr.org/home/fse-2025
   deadline:
-    - "2023-09-21 23:59"
+    - "2024-09-12 23:59"
+  comment: Noti--January 14, 2025
   date: 
   place: 
   tags: [SOFT, A]
@@ -433,15 +431,15 @@
   link: https://conf.researchr.org/home/ase-2024
   deadline:
     - "2024-05-31 23:59"
-  comment: Noti--22 Jul 2023
+  comment: Noti--6 AUG 2024
   date: 
   place: 
   tags: [SOFT, A]
 
 - name: POPL
   description: ACM-SIGACT Symp on Principles of Prog Langs (CCF-A)
-  year: 2024
-  link: https://popl24.sigplan.org/
+  year: 2025
+  link: https://popl25.sigplan.org/
   deadline:
     - "2023-07-11 23:59"
   comment: Noti--2023-09-29
@@ -454,8 +452,8 @@
   year: 2024
   link: https://pldi24.sigplan.org/
   deadline:
-    - "2023-11-16 23:59"
-  comment: Noti--2024-02-26
+    - "2024-07-11 23:59"
+  comment: Noti--7 Nov 2024
   date: 
   place:
   tags: [SYS, A]
@@ -478,7 +476,7 @@
   deadline:
     - "2023-10-20 23:59"
     - "2024-04-05 23:59"
-  comment: 2 reviwe cycles， Noti1--22 Dec 20223 Noti2--30 Jun 2024
+  comment: 2 reviwe cycles， Noti1--22 Dec 2023 Noti2--30 Jun 2024
   date: 
   place: 
   tags: [SYS, A]
@@ -507,22 +505,22 @@
 
 - name: SANER
   description: International Conference on Software Analysis, Evolution, and Reengineering (CCF-B)
-  year: 2024
-  link: https://conf.researchr.org/track/saner-2024/saner-2024-papers
+  year: 2025
+  link: https://conf.researchr.org/home/saner-2025
   deadline:
-    - "2023-10-13 23:59"
-  comment: Noti--December 15, 2023
+    - "2024-10-04 23:59"
+  comment: Noti--29 Nov 2024
   date: 
   place: 
   tags: [SOFT, B]
 
 - name: APSEC
   description: Asia-Pacific Software Engineering Conference (CCF-C)
-  year: 2023
-  link: https://conf.researchr.org/home/apsec-2023
+  year: 2024
+  link: https://conf.researchr.org/home/apsec-2024
   deadline:
-    - "2023-06-30 23:59"
-  comment: Noti--18 Aug 2023
+    - "2024-07-13 23:59"
+  comment: Noti--13 Sep 2023
   date: 
   place: 
   tags: [SOFT, C]
@@ -544,34 +542,45 @@
 
 # journal
 - name: 软件学报专刊征文
-  description: 云原生数据库技术与系统
+  description: 大模型下的软件质量保障
   year: 2024
-  link: https://www.jos.org.cn/jos/news/view/20231226161820001
+  link: https://www.jos.org.cn/jos/news/view/20240403125142001
   deadline: 
-    - "2024-05-27 23:59"
-  comment: NDBC2024报告日期2024年8月27-29日, 最终结果通知2024年9月15日
+    - "2024-08-26 23:59"
+  comment: 第一轮评审意见通知时间：2024年10月15日, ChinaSoft2024作报告日期：2024年11月15-17日
   date: 
   place:
   tags: [SEC]
 
 - name: 《软件学报》专刊
-  description: 软件学报专刊征文：面向复杂软件的缺陷检测与修复技术
-  year: 2023
-  link: https://www.jos.org.cn/jos/news/view/20230315101441001
+  description: RISC-V系统软件及软硬协同技术
+  year: 2024
+  link: https://www.jos.org.cn/jos/news/view/20240404170822001
   deadline: 
-    - "2023-09-11 23:59"
-  comment: 审稿结果通知 2023年11月16日，出版时间 2024年第7期
+    - "2024-08-26 23:59"
+  comment: 第一轮评审意见通知时间：2024年10月15日, ChinaSoft2024作报告日期：2024年11月15-17日
+  date: 
+  place:
+  tags: [SEC]
+
+- name: 《软件学报》专刊
+  description: 新兴软件与系统的可信赖性与安全
+  year: 2024
+  link: https://www.jos.org.cn/jos/news/view/20240415094342001
+  deadline: 
+    - "2024-08-26 23:59"
+  comment: 第一轮评审意见通知时间：2024年10月15日, ChinaSoft2024作报告日期：2024年11月15-17日
   date: 
   place:
   tags: [SEC]
 
 - name: 《通信学报》专题征文
-  description: 智能无人系统安全专题
-  year: 2023
-  link: http://www.infocomm-journal.com/txxb/CN/news/news1681.shtml
+  description: 网络空间数据安全与治理专题征文
+  year: 2024
+  link: https://www.infocomm-journal.com/txxb/CN/news/news1806.shtml
   deadline: 
-    - "2023-06-01 23:59"
-  comment: 出版日期 2023年9月
+    - "2024-09-30 23:59"
+  comment: 出版日期 2025年1月
   date: 
   place:
   tags: [SEC]
