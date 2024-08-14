@@ -1,6 +1,6 @@
 ---
 # Security
-- name: S&P (Oakland)
+- name: IEEE S&P
   year: 2025
   date: 
   description: IEEE Symposium on Security and Privacy (CCF-A)
