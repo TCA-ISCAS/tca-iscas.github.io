@@ -15,12 +15,12 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security (CCF-A)
-  year: 2024
-  link: https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html
+  year: 2025
+  link: https://www.sigsac.org/ccs/CCS2025/call-for-papers/
   deadline:
-    - "2024-01-28 23:59"
-    - "2024-04-29 23:59"
-  comment: 2 review cycles, Noti1--2024.4.3 Noti2-- 
+    - "2025-01-09 23:59"
+    - "2025-04-14 23:59"
+  comment: 2 review cycles, Noti1--Mar 28, 2025 Noti2--July 1, 2025 
   date:
   place: 
   tags: [SEC, CRYPTO, A]
@@ -122,11 +122,11 @@
 - name: DIMVA
   description: Conference on Detection of Intrusions and Malware & Vulnerability Assessment (CCF-C)
   year: 2024
-  link: https://www.dimva.org/dimva2024/
+  link: https://www.dimva.org/dimva2025/
   deadline: 
-    - "2023-12-06 23:59"
-    - "2024-02-14 23:59"
-  comment: 2 review cycles, Noti1--2024.1.24 Noti2--2024.4.3
+    - "2024-12-04 23:59"
+    - "2025-02-12 23:59"
+  comment: 2 review cycles, Noti1--Jan 22, 2025 Noti2--Apr 2, 2025
   date: 
   place: 
   tags: [SEC, C]
@@ -172,11 +172,11 @@
 - name: ACISP
   description: Australasia Conference on Information Security and Privacy (CCF-C)
   year: 2024
-  link: https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp
+  link: https://uow-ic2.github.io/acisp2025/
   deadline: 
-    - "2023-11-06 23:59"
-    - "2024-02-19 23:59"
-  comment: 2 review cycles, Noti1--2024.1.22 Noti2--2024.4.8
+    - "2024-11-06 23:59"
+    - "2025-02-19 23:59"
+  comment: 2 review cycles, Noti1--22 January 2025 Noti2--29 April 2025
   date: 
   place: 
   tags: [SEC, C]
@@ -185,11 +185,11 @@
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks (CCF-C)
   year: 2024
-  link: https://wisec2024.kaist.ac.kr/
+  link: https://wisec2025.gmu.edu/
   deadline: 
-    - "2023-11-09 23:59"
-    - "2024-02-08 23:59"
-  comment: 2 review cycles, Noti1--December 18th, 2023 Noti2-March 22th, 2024
+    - "2024-11-21 23:59"
+    - "2025-03-12 23:59"
+  comment: 2 review cycles, Noti1--Jan 15, 2025 Noti2--Apr 23, 2025
   date:  
   place: 
   tags: [SEC, C]
@@ -324,21 +324,21 @@
 - name: HotOS
   description: Workshop on Hot Topics in Operating Systems (CCF-B)
   year: 2025
-  link: https://hotos25.rcs.uwaterloo.ca/
+  link: https://sigops.org/s/conferences/hotos/2025/
   deadline:
-    - "2023-02-03 23:59"
-  comment: Noti--2023-04-21
+    - "2025-01-15 23:59"
+  comment: Noti--April 1, 2025
   date: 
   place: 
   tags: [SYS, B]
 
 - name: MobiSys
   description: International Conference on Mobile Systems, Applications, and Services (CCF-B)
-  year: 2024
-  link: https://www.sigmobile.org/mobisys/2024/
-  comment: Noti--March 6th, 2024
+  year: 2025
+  link: https://www.sigmobile.org/mobisys/2025/
   deadline:
-    - "2023-11-23 23:59"
+    - "2024-12-02 23:59"
+  comment: Noti--	March 7th, 2025
   date: 
   place: 
   tags: [SYS, B]  
@@ -407,9 +407,8 @@
   year: 2025
   link: https://conf.researchr.org/home/issta-2025
   deadline:
-    - "2023-12-15 23:59"
-    - "2024-04-12 23:59"
-  comment: 2 review cycles, Noti1--Mar 2 2024, Noti2--June 13 2024
+    - "2024-10-31 23:59"
+  comment: 2 review cycles, Noti1--31 Mar 2025 
   date: 
   place: 
   tags: [SOFT, A]
@@ -441,8 +440,8 @@
   year: 2025
   link: https://popl25.sigplan.org/
   deadline:
-    - "2023-07-11 23:59"
-  comment: Noti--2023-09-29
+    - "2024-07-11 23:59"
+  comment: Noti--Thu 7 Nov 2024
   date: 
   place: 
   tags: [SYS, A]
@@ -472,11 +471,11 @@
 - name: OOPSLA
   description: Object-Oriented Programming Systems, Languages and Applications (CCF-A)
   year: 2024
-  link: https://2024.splashcon.org/
+  link: https://2025.splashcon.org/track/OOPSLA
   deadline:
-    - "2023-10-20 23:59"
-    - "2024-04-05 23:59"
-  comment: 2 reviwe cycles， Noti1--22 Dec 2023 Noti2--30 Jun 2024
+    - "2024-10-15 23:59"
+    - "2025-03-25 23:59"
+  comment: 2 reviwe cycles， Noti1--18 Dec 2024 Noti2--30 Jun 2025
   date: 
   place: 
   tags: [SYS, A]
